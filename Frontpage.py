@@ -19,7 +19,7 @@ def main():
     st.markdown(
     """
     <div style='text-align: center;font-size: 24px;'>
-        <a href='https://jatin41-main-page-myapp-bj6jh0.streamlit.app' target='_blank'>Start here</a>
+        <a href='https://diseasesort-s7i9rlf097.streamlit.app' target='_blank'>Start here</a>
     </div>
     """,
     unsafe_allow_html=True
